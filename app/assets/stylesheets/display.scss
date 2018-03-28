@@ -1,13 +1,21 @@
 .amazon_top{
 width:100%;
 height:100px;
-background-color:red;
+
+}
+.logo{
+  width:150px;
+height:50px;
+  background-image: url("/logo.png");
+  background-color:red;
 }
 
 .amazon_image{
 width:100%;
-height:100px;
-background-color:green;
+height:300px;
+
+background-image: url("/amazon-image.png");
+
 }
 
 .section.sel{
@@ -18,3 +26,4 @@ background-color:green;
 
 
 }
+
